@@ -1,6 +1,6 @@
 # About Me
 
-I'm a first-year Electrical and Electronic Engineering student at the University of Machakos, Kenya, building toward machine learning and AI engineering. I build projects from start to finish and explain them in plain language. I'm also interested in financial markets and curious about anything new in tech.
+I'm an Electrical and Electronic Engineering student at the University of Machakos, Kenya, building toward machine learning and AI engineering. I build projects from start to finish and explain them in plain language. I'm also interested in financial markets and curious about anything new in tech.
 
 I'm looking for **junior machine learning, AI, and software engineering roles**.
 
@@ -12,9 +12,9 @@ I'm looking for **junior machine learning, AI, and software engineering roles**.
 
 | Project | What it does and why it matters |
 |---|---|
-| [MlBites](https://github.com/henrynyoike/mlbites) | Machine learning is software that learns patterns from data. Most people use ready-made tools without knowing what is inside, so I rebuilt six core methods from scratch with NumPy and checked them against scikit-learn. The results match. More models are on the way. |
+| [MlBites](https://github.com/henrynyoike/mlbites) | I rebuilt six core methods from scratch with NumPy and checked them against scikit-learn. The results match. More models are on the way. |
 | [CSV Automation Engine](https://github.com/henrynyoike/csv-automation-engine) | Business spreadsheets are often messy, and cleaning them by hand is slow. This web app lets anyone upload a spreadsheet, fix duplicates and blanks in a few clicks, chart it, and download the clean file. |
-| [Customer Churn Prediction Pipeline](https://github.com/henrynyoike/customer_churn_pipeline) | Keeping a customer is usually cheaper than winning a new one. This pipeline learns from 7,043 telecom customer records to predict who is likely to leave. *In progress.* |
+| [Customer Churn Prediction Pipeline](https://github.com/henrynyoike/customer_churn_pipeline) | Keeping a customer is usually cheaper than winning a new one. This pipeline learns from 7,043 telecom customer records to predict who is likely to leave.|
 | [Homer and Bart Classifier](https://github.com/henrynyoike/homer-bart-cnn-classifier) | Teaches a computer to recognise what is in a picture, the idea behind face unlock. It tells two cartoon characters apart with 89% accuracy on 53 images it had never seen. |
 
 ## Right now
