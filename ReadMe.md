@@ -22,7 +22,7 @@ I enjoy working across the full development process, from understanding a proble
 | [**CIFAR-10 Image Classifier**](https://github.com/henrynyoike/cifar10-model) | A convolutional neural network developed with PyTorch to classify images across the ten CIFAR-10 categories. Explores image preprocessing, neural network architecture, model training, and performance evaluation. |
 | [**Homer and Bart Classifier**](https://github.com/henrynyoike/homer-bart-cnn-classifier) | A PyTorch convolutional neural network for image classification. Trained to distinguish between Homer and Bart Simpson, achieving 89% accuracy on a test set of 53 previously unseen images. |
 | [**ForexGen**](https://github.com/henrynyoike/forexgen) | A Python package for generating synthetic foreign exchange market data. Supports configurable currency markets, timeframes, and random seeds, producing structured OHLCV data for financial analysis, backtesting, and quantitative experimentation. |
-| **BetaTrader** | A Python-based financial market analysis and charting application built around ForexGen. Integrates market data generation, API-driven price updates, and live candlestick visualization, providing a foundation for market analysis and trading strategy development. |
+| [**BetaTrader**](https://github.com/henrynyoike/beta-trader) | A Python-based financial market analysis and charting application built around ForexGen. Integrates market data generation, API-driven price updates, and live candlestick visualization, providing a foundation for market analysis and trading strategy development. |
  
 Explore more projects on my [GitHub profile](https://github.com/henrynyoike).
 
