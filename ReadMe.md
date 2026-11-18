@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer | Python Software Engineer
 
-I'm an Electrical and Electronic Engineering student at the University of Machakos, Kenya, building toward a career in Machine Learning and AI Engineering.
+I'm an Electrical and Electronic Engineering student building toward a career in Machine Learning and AI Engineering.
 
 I enjoy understanding how things work and turning that understanding into practical software. My work focuses on implementing machine learning algorithms, developing predictive models, building data-processing pipelines, designing software systems, and reverse engineering existing technologies.
 
